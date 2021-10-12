@@ -1,0 +1,9 @@
+Augment Reality (AR) is the integration of digital information in user environment. It is the far advancement of virtual reality where a simulated artificial environment is made for running. In AR the digital information is integrating and refreshing simultaneously so that the user will get a live feedback and support of information. The information can be in the form of display,data,voice or even smell.
+
+Google glass, Automated Wind shield , Smell enabled movie theater or even calling a friend using displayed number in hand while the mobile phone is in pocket, all are AR.
+
+Most of the type like any other application we need to write the specific codes for running it. Since it is a extended computer graphics application, most of the programs are written in specialized 3D programs like Augment Reality Markup Language (ARML).
+
+Finally since AR is focusing on computer vision, object recognition and video tracking devices like Smart phones and Tablets which supports GPS, accelerometer and solid state compass are integrating with applications. The Pokemon Go was one of the succesful AR apps.
+
+Unity and Vuforia platform is the best way to start your augmented reality projects. Unity is a game engine used to create games and render it its software. Vuforia is a augmented reality platform famous for it's image recognition based SDK which is used to create augmented reality based applications.
